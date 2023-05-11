@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "77ef2dd933fa7234",
+    "type": "split",
+    "children": [
+      {
+        "id": "c424b16cfb07c379",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3485f54675b6486",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "大前端/知识体系/大佬的知识体系and学习路线.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "35da721fed064e49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "大前端/知识体系/大佬的知识体系and学习路线.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eefd44f346558f91",
+    "type": "split",
+    "children": [
+      {
+        "id": "8867dc1c904f42e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a39659fd9e64071e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eb20e382b555e776",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e09781e71cd0f571",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "bd33e7850cd60f86",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2a632928fb074f91",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6d2d2439dc84b4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6806dcc35e03b674",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "大前端/知识体系/大佬的知识体系and学习路线.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f7235926e7ce5db8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "大前端/知识体系/大佬的知识体系and学习路线.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "de8abbcb88461f3e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8837c5ac4bd6a7ca",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "大前端/知识体系/大佬的知识体系and学习路线.md"
+              }
+            }
+          },
+          {
+            "id": "32aabb9aba4bf1db",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "canvas:新建白板": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
+    }
+  },
+  "active": "35da721fed064e49",
+  "lastOpenFiles": [
+    "大前端/实习/目前互联网比较著名的一些中大厂.md",
+    "大前端/实习/每日计划.md",
+    "Pasted image 20230511211228.png",
+    "Pasted image 20230511211225.png",
+    "大前端/知识体系/大佬的知识体系and学习路线.md",
+    "大前端/知识体系",
+    "大前端/前端面经.md",
+    "大前端/项目推荐",
+    "奇怪的想法/整一个动漫的图集收集站，上传图片然后生成好看的图集和经典配文什么的.md",
+    "大前端/实习",
+    "大前端/VUE/VUE学习笔记.md",
+    "奇怪的想法",
+    "大前端/VUE/vue学习路线.md",
+    "2023-05-07.md",
+    "文案集合/王小波.md",
+    "文案集合/博尔赫斯.md",
+    "文案集合/尼采.md",
+    "文案集合/一些自己的收藏.md",
+    "3927F55F.png",
+    "一些能拿来自媒体搞钱的想法/利用chat在短视频平台或小红书平台.md",
+    "文案集合",
+    "小程序开发日志/小程序开发总结.md",
+    "一些能拿来自媒体搞钱的想法",
+    "Pasted image 20230505144824.png",
+    "小程序开发日志/imgg/Pasted image 20230505150226 - 副本.png",
+    "小程序开发日志/imgg/Pasted image 20230505175206.png",
+    "小程序开发日志/imgg/Pasted image 20230505175157.png",
+    "小程序开发日志/imgg/Pasted image 20230505175045.png",
+    "小程序开发日志/imgg/Pasted image 20230505174115.png",
+    "小程序开发日志/imgg/Pasted image 20230505173244.png",
+    "未命名.canvas",
+    "小程序开发日志/imgg/2023-04-30.md",
+    "小程序开发日志/2023-05-02.md",
+    "未命名/小程序.md",
+    "diary/第一篇日记.md",
+    "小程序开发日志/2023-04-17 小程序开发.md",
+    "数据库/sqlite/sqlite安装方法.md",
+    "数据库/sqlite/sqlite基本操作.md",
+    "数据库/sqlite/未命名",
+    "数据库/sqlite",
+    "数据库",
+    "大前端/未命名.md",
+    "大前端/VUE",
+    "小程序开发日志/2023-04-26.md",
+    "小程序开发日志/2023-04-25.md",
+    "someTargets/2023上半年的一些计划.md",
+    "软件需求分析/未命名.canvas",
+    "未命名/未命名.canvas",
+    "思维导图/未命名.canvas",
+    "未命名 1.canvas",
+    "思维导图/算法.canvas"
+  ]
+}
