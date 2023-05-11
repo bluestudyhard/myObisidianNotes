@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c424b16cfb07c379",
+        "id": "bc2854eb828601ef",
         "type": "tabs",
         "children": [
           {
-            "id": "e3485f54675b6486",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "大前端/知识体系/大佬的知识体系and学习路线.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "35da721fed064e49",
+            "id": "2060a4da7f1689a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -177,13 +164,13 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "35da721fed064e49",
+  "active": "2060a4da7f1689a7",
   "lastOpenFiles": [
+    "大前端/知识体系/大佬的知识体系and学习路线.md",
     "大前端/实习/目前互联网比较著名的一些中大厂.md",
     "大前端/实习/每日计划.md",
     "Pasted image 20230511211228.png",
     "Pasted image 20230511211225.png",
-    "大前端/知识体系/大佬的知识体系and学习路线.md",
     "大前端/知识体系",
     "大前端/前端面经.md",
     "大前端/项目推荐",
