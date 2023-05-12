@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大前端/知识体系/大佬的知识体系and学习路线.md",
+                "file": "大前端/VUE/vue路由.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "大前端/知识体系/大佬的知识体系and学习路线.md",
+                "file": "大前端/VUE/vue路由.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "大前端/知识体系/大佬的知识体系and学习路线.md",
+                "file": "大前端/VUE/vue路由.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大前端/知识体系/大佬的知识体系and学习路线.md"
+                "file": "大前端/VUE/vue路由.md"
               }
             }
           },
@@ -166,7 +166,9 @@
   },
   "active": "2060a4da7f1689a7",
   "lastOpenFiles": [
+    "大前端/VUE/Pasted image 20230512105027.png",
     "大前端/知识体系/大佬的知识体系and学习路线.md",
+    "大前端/VUE/vue路由.md",
     "大前端/实习/目前互联网比较著名的一些中大厂.md",
     "大前端/实习/每日计划.md",
     "Pasted image 20230511211228.png",
@@ -211,7 +213,6 @@
     "大前端/VUE",
     "小程序开发日志/2023-04-26.md",
     "小程序开发日志/2023-04-25.md",
-    "someTargets/2023上半年的一些计划.md",
     "软件需求分析/未命名.canvas",
     "未命名/未命名.canvas",
     "思维导图/未命名.canvas",
